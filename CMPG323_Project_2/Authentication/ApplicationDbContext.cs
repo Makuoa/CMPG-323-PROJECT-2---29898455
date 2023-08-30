@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace JWTAuthentication.Authentication
+namespace CMPG323_Project_2.Authentication
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
