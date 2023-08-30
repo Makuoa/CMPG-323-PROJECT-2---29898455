@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KA7O8NBwuqdJ842SXuGiPP2XA6j7oBzcB38MWGp/H3eSBb/STiua4VuywHeBhSOAqz/VKGhlznJSntQO44O4yQ==",
+  "dgSpecHash": "hCsHXTKeoTV7Z7QEgaJXsS5b+MmqxRDGlucOaBIUN4/iKxwdHyU/b6lByZKLEANipjL1gQzRZ2V0mqvxFtspqQ==",
   "success": true,
-  "projectFilePath": "E:\\Project 2\\BACKUP FILE\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
+  "projectFilePath": "E:\\Project 2\\CMPG-323-PROJECT-2---29898455\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

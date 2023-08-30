@@ -11755,11 +11755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project 2\\BACKUP FILE\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
+      "projectUniqueName": "E:\\Project 2\\CMPG-323-PROJECT-2---29898455\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
       "projectName": "CMPG323_Project_2",
-      "projectPath": "E:\\Project 2\\BACKUP FILE\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
+      "projectPath": "E:\\Project 2\\CMPG-323-PROJECT-2---29898455\\CMPG323_Project_2\\CMPG323_Project_2.csproj",
       "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-      "outputPath": "E:\\Project 2\\BACKUP FILE\\CMPG323_Project_2\\obj\\",
+      "outputPath": "E:\\Project 2\\CMPG-323-PROJECT-2---29898455\\CMPG323_Project_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
