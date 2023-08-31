@@ -32,3 +32,12 @@
 -> If a user wants to update a zone, they can click the PATCH /api/Zones/{id} button, click the Try it out button, enter the zoneID of the zone they wish to update in the provided textbox, fill out the box with the new zone information, and then click the Execute button to update the zone.\
 -> If a user wishes to delete a zone, they can click where it says DELETE /api/Zones/{id}, then click the Try it out button, enter the zoneID of the desired zone in the given textbox, and finally click the Execute button to delete the zone.\
 -> The user can select the area where it is written GET /api/Zones/{id}/getAllDevicesFromSameZone. Then click the Try it out button, enter the zoneID in the given textbox, and press the Execute button to see all the devices based on the same zone.
+
+##References
+-->YouTube. Available at: https://www.youtube.com/results?search_query=Create%2Ba%2BReadME.md%2Bfile%2Bthat%2Bwill%2Bbe%2Bused%2Bto%2Bdescribe%2Byour%2Bproject%2Band%2Bhow%2Bstakeholders%2Bare%2Bto%2Buse%2Bthe%2Breport%2Bthat%2B/17/you%2Bhave%2Bdeveloped. (Accessed: 20 August 2023). 
+-->Anderson, R. and Larkin, K. (08/17/2022) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&amp;tabs=visual-studio (Accessed: 20 August 2023). 
+--> Jongalloway Create a web API with ASP.NET core controllers - training, Training | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/ (Accessed: 21 August 2023).
+-->  RicoSuter (11/10/2022) ASP.NET core web API documentation with swagger / openapi, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 (Accessed: 23 August 2023). 
+--> Nishanil (no date) Create microservices with .NET and ASP.NET Core - training, Training | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/ (Accessed: 26 August 2023). 
+-->Sanjay (2021) Entity framework core in ASP.NET CORE 3.1 - Getting started, Pro Code Guide. Available at: https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/ (Accessed: 20 August 2023). 
+-->Codemillmatt (2022) Publish an ASP.NET core web API to Azure API Management with visual studio, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0 (Accessed: 21 August 2023). 
