@@ -6,38 +6,19 @@
 -> Click the Try it out button under POST /api/Authenticate/login, enter your login information in the field supplied, then click the Execute button and copy the provided token. \
 -> After clicking the Authorize button at the top right, complete the on-screen instructions. Then click the Authorize button, after that dismiss the pop-up.
 
-## Under categories
 
--> To see all the categories that have been created, the user must first click the GET /api/Categories button, then click the Try it out button and finally the Execute button.\
--> If a user wishes to add more categories, they must click where it says POST /api/Categories, click the Try it out button, fill out the information for the category, and then click the Execute button.\
--> If a user wishes to display a certain category, they can do so by clicking where it says GET /api/categories/{id}, then hitting the button that says Try it out, then enter the categoryID that needs to be fetched in the given textbox, press the execute button, and the category will be displayed.\
--> If a user wants to update a category, they can click the PATCH /api/categories/{id} button, click the Try it out button, enter the categoryID of the category they wish to update in the provided textbox, fill out the box with the new category information, and then click the Execute button to update the category.\
--> If a user wishes to delete a category, they can click where it says DELETE /api/categories/{id}, then click the Try it out button, enter the categoryID of the desired category in the given textbox, and finally click the Execute button to delete the category.\
--> The user can select the area where it is written GET /api/categories/{id}/getAllDevicesFromSameCategory. Then click the Try it out button, enter the category ID in the given textbox, and press the Execute button to see all the devices based on the same category. \
--> The user can click where it says GET /api/categories/{id}/numberOfZones, click the Try it out button, type the category ID in the supplied textbox, and then click the Execute button to see the number of zones that belong to the same category.
-
-## Under devices
-
--> To see all the devices that have been placed, the user must first click the GET /api/Devices button, then click the Try it out button and finally the Execute button.\
--> If a user wishes to add more devices, they must click where it says POST /api/Devices, click the Try it out button, fill out the information for the device, and then click the Execute button.\
--> If a user wishes to display a certain device, they can do so by clicking where it says GET /api/Devices/{id}, then hitting the button that says Try it out, then enter the deviceID that needs to be fetched in the given textbox, press the execute button, and the device will be displayed.\
--> If a user wants to update a device, they can click the PATCH /api/Devices/{id} button, click the Try it out button, enter the deviceID of the device they wish to update in the provided textbox, fill out the box with the new device information, and then click the Execute button to update the device.\
--> If a user wishes to delete a device, they can click where it says DELETE /api/Devices/{id}, then click the Try it out button, enter the devicesID of the desired device in the given textbox, and finally click the Execute button to delete the device.
-
-## Under zones
-
--> To see all the zones that have been added, the user must first click the GET /api/Zones button, then click the Try it out button and finally the Execute button.\
--> If a user wishes to add more zones, they must click where it says POST /api/Zones, click the Try it out button, fill out the information for the zone, and then click the Execute button.\
--> If a user wishes to display a certain zone, they can do so by clicking where it says GET /api/Zones/{id}, then hitting the button that says Try it out, then enter the ZoneID that needs to be fetched in the given textbox, press the execute button, and the zone will be displayed.\
--> If a user wants to update a zone, they can click the PATCH /api/Zones/{id} button, click the Try it out button, enter the zoneID of the zone they wish to update in the provided textbox, fill out the box with the new zone information, and then click the Execute button to update the zone.\
--> If a user wishes to delete a zone, they can click where it says DELETE /api/Zones/{id}, then click the Try it out button, enter the zoneID of the desired zone in the given textbox, and finally click the Execute button to delete the zone.\
--> The user can select the area where it is written GET /api/Zones/{id}/getAllDevicesFromSameZone. Then click the Try it out button, enter the zoneID in the given textbox, and press the Execute button to see all the devices based on the same zone.
-
-##References
--->YouTube. Available at: https://www.youtube.com/results?search_query=Create%2Ba%2BReadME.md%2Bfile%2Bthat%2Bwill%2Bbe%2Bused%2Bto%2Bdescribe%2Byour%2Bproject%2Band%2Bhow%2Bstakeholders%2Bare%2Bto%2Buse%2Bthe%2Breport%2Bthat%2B/17/you%2Bhave%2Bdeveloped. (Accessed: 20 August 2023). 
--->Anderson, R. and Larkin, K. (08/17/2022) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&amp;tabs=visual-studio (Accessed: 20 August 2023). 
+## Reference
+--> YouTube. Available at: https://www.youtube.com/results?search_query=Create%2Ba%2BReadME.md%2Bfile%2Bthat%2Bwill%2Bbe%2Bused%2Bto%2Bdescribe%2Byour%2Bproject%2Band%2Bhow%2Bstakeholders%2Bare%2Bto%2Buse%2Bthe%2Breport%2Bthat%2B/17/you%2Bhave%2Bdeveloped. (Accessed: 20 August 2023). 
+--> Anderson, R. and Larkin, K. (08/17/2022) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&amp;tabs=visual-studio (Accessed: 20 August 2023). 
 --> Jongalloway Create a web API with ASP.NET core controllers - training, Training | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/ (Accessed: 21 August 2023).
 -->  RicoSuter (11/10/2022) ASP.NET core web API documentation with swagger / openapi, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 (Accessed: 23 August 2023). 
 --> Nishanil (no date) Create microservices with .NET and ASP.NET Core - training, Training | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/ (Accessed: 26 August 2023). 
--->Sanjay (2021) Entity framework core in ASP.NET CORE 3.1 - Getting started, Pro Code Guide. Available at: https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/ (Accessed: 20 August 2023). 
--->Codemillmatt (2022) Publish an ASP.NET core web API to Azure API Management with visual studio, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0 (Accessed: 21 August 2023). 
+--> Sanjay (2021) Entity framework core in ASP.NET CORE 3.1 - Getting started, Pro Code Guide. Available at: https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/ (Accessed: 20 August 2023). 
+--> Codemillmatt (2022) Publish an ASP.NET core web API to Azure API Management with visual studio, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0 (Accessed: 21 August 2023). 
+--> Author: Jacqui MullerFeel free to reach out or browse through:LinkedInGitHubThe JPanda – Automation et al. blogs et al. (2022) Join two entities in .NET core, using Lambda and entity Framework Core, JD Bots. Available at: https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/ (Accessed: 20 August 2023). 
+--> dolly_dodolly_do&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9733 gold badges33 silver badges1515 bronze badges and Fyodor YemelyanenkoFyodor Yemelyanenko&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 11.3k11 gold badge3030 silver badges3838 bronze badges (1965) Error CS0029 cannot implicitly convert type ‘Microsoft.aspnetcore.Mvc.ActionResult’ to ‘system.collections.Generic.list&lt;&gt;’, Stack Overflow. Available at: https://stackoverflow.com/questions/55083231/error-cs0029cannot-implicitly-convert-type-microsoft-aspnetcore-mvc-actionresu (Accessed: 27 August 2023). 
+--> Muller, P. byJacqui (2021) [python] automating ASP.NET core web API creation that communicates with your database in 60 seconds or less, The JPanda. Available at: https://thejpanda.com/2020/08/10/python-automating-asp-net-core-web-api-creation-that-communicates-with-your-database-in-60-seconds-or-less/ (Accessed: 29 August 2023). 
+--> Olayemi, F.S. (2022) Visual studio 2022 add new scaffold item ‘there was an error running the selected Code generator’, DEV Community. Available at: https://dev.to/saint_vandora/visual-studio-2022-add-new-scaffold-item-there-was-an-error-running-the-selected-code-generator-5cd1 (Accessed: 271 August 2023). 
+--> Dotnet (no date) Visual studio 2022 add new scaffold item ‘there was an error running the selected Code generator’ · ISSUE #591 · dotnet/ASPNETDOCS, GitHub. Available at: https://github.com/dotnet/AspNetDocs/issues/591 (Accessed: 28 August 2023). 
+
+
