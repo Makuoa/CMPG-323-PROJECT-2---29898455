@@ -1,3 +1,5 @@
+# AZURE LINK
+--> https://cmpg323project2-29898455.azurewebsites.net/
 # CMPG-323-PROJECT-2---29898455
 # How the API should be used by users
 ## Under authentication
